@@ -1,5 +1,5 @@
 [![MasterHead](https://cdna.artstation.com/p/assets/images/images/022/155/134/original/rafe-hall-video.gif?1574307972)]
-<img align="right" alt="Coding" width="490" src="https://cdna.artstation.com/p/assets/images/images/022/155/134/original/rafe-hall-video.gif?1574307972">
+<img align="right" alt="Coding" width="470" src="https://cdna.artstation.com/p/assets/images/images/022/155/134/original/rafe-hall-video.gif?1574307972">
 
 <h1 align="center">Hi 👋, I'm Tech Monk</h1>
 <h3 align="center">A Tech enthusiast who is always eager to learn and explore new technologies and domains .</h3>
