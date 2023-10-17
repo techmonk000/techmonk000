@@ -1,4 +1,4 @@
-![Mokoto Glitch 1](https://res.cloudinary.com/practicaldev/image/fetch/s--SdL4SH6T--/c_imagga_scale,f_auto,fl_progressive,h_720,q_66,w_1280/https://dev-to-uploads.s3.amazonaws.com/i/2ciu6mo6r9x9zyverc10.gif)
+![Mokoto Glitch 1](https://cdn.dribbble.com/users/599148/screenshots/3487409/toggle___23fps.gif)
 <h1 align="center">Hi 👋, I'm Swarnavo Mukherjee</h1>
 <h3 align="center"> A Tech Geek who is always eager to explore new boundaries </h3>
 
