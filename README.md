@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techmonk000&label=Profile%20views&color=0e75b6&style=flat" alt="techmonk000" /> </p>
 
-<p align="left"> <a href="https://github.com/techmonk000/github-profile-trophy"><img src="https://github-trophies.vercel.app/?usernametechmonk000" alt="techmonk000" /></a> </p>
+<p align="left"> <a href="https://github.com/techmonk000/github-profile-trophy"><img src="https://github-trophies.vercel.app/?username=techmonk000" alt="techmonk000" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp">
 
