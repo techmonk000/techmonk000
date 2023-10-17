@@ -1,7 +1,7 @@
 ![ezgif com-resize](https://github.com/techmonk000/techmonk000/assets/113084209/b7939215-6ca7-4e7b-af89-fbf0fffae0e5)
 
 <h1 align="center">Hi 👋, I'm Swarnavo Mukherjee</h1>
-<h3 align="center"> A Tech Geek who is always eager to explore new boundaries </h3>
+<h3 align="center">Embarking on a tech odyssey to push the boundaries of what's possible, I'm always open to fellow explorers of the digital frontier. Welcome to my tech playground! </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techmonk000&label=Profile%20views&color=0e75b6&style=flat" alt="techmonk000" /> </p>
 
