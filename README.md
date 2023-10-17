@@ -1,4 +1,5 @@
-![Mokoto Glitch 1](https://cdna.artstation.com/p/assets/images/images/035/693/656/original/gwyneth-balucio-hello-world.gif?1615642877)
+![ezgif com-resize](https://github.com/techmonk000/techmonk000/assets/113084209/b7939215-6ca7-4e7b-af89-fbf0fffae0e5)
+
 <h1 align="center">Hi 👋, I'm Swarnavo Mukherjee</h1>
 <h3 align="center"> A Tech Geek who is always eager to explore new boundaries </h3>
 
