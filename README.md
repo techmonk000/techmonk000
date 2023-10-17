@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swarnavo Mukherjee</h1>
-<h3 align="center">A Tech Geek who is always</h3>
+<h3 align="center"> A Tech Geek who is always eager to explore new boundaries </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techmonk000&label=Profile%20views&color=0e75b6&style=flat" alt="techmonk000" /> </p>
 
@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **swarnavomukherjee03@gmail.com**
 
-- 📄 Know about my experiences [I have experience in building full stack websites and applications . I am currently building my first AI model using NLP and Deep Learning . I have knowledge of Web Penetration and Password Cracking in Cybersecurity.](I have experience in building full stack websites and applications . I am currently building my first AI model using NLP and Deep Learning . I have knowledge of Web Penetration and Password Cracking in Cybersecurity.)
+- 📄 Know about my experiences I have experience in building full stack websites and applications . I am currently building my first AI model using NLP and Deep Learning . I have knowledge of Web Penetration and Password Cracking in Cybersecurity.
 
 - ⚡ Fun fact **Humans are considered to be beings with feelings and emotions however most of the time humans fail to realize their own feelings**
 
