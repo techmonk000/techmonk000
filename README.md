@@ -11,19 +11,19 @@
 
 - 🔭 I’m currently working on [Project-Friday( AI Model)](https://github.com/techmonk000/Project-Friday)
 
-- 🌱 I’m currently learning **Next JS , Cloud Computing**
+- 🌱 I’m currently exploring **LLM Inference , Low Latency coding**
 
-- 👯 I’m looking to collaborate on **AI , Development or Cybersecurity projects**
+- 👯 I’m looking to collaborate on **Systems, Low level or AI projects**
 
-- 🤝 I’m looking for help with [Project-Friday](https://github.com/techmonk000/Project-Friday)
+- 🤝 I’m looking for help with [Nebion](https://github.com/techmonk000/nebion-engine)
 
 - 👨‍💻 All of my projects are available at [https://github.com/techmonk000?tab=repositories](https://github.com/techmonk000?tab=repositories)
 
-- 💬 Ask me about **Web development , Cybersecurity and Machine Learning**
+- 💬 Ask me about **Kernel Programming, CUDA, System Engineering**
 
 - 📫 How to reach me **swarnavomukherjee03@gmail.com**
 
-- 📄 Know about my experiences I have experience in building full stack websites and applications . I am currently building my first AI model using NLP and Deep Learning . I have knowledge of Web Penetration and Password Cracking in Cybersecurity.
+- 📄 Know about my experiences I have experience in building custom GEMM kernels and GPU Hypervisors . I am currently building GPU Hypervisor using custom GEMM quant kernels and memory virtualization. I have deep experience in low latency systems and infrastructures.
 
 - ⚡ Fun fact **Humans are considered to be beings with feelings and emotions however most of the time humans fail to realize their own feelings**
 
