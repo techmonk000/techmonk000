@@ -9,7 +9,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/RbDKaczqWovIugyJmW/giphy.webp">
 
-- 🔭 I’m currently working on [Project-Friday( AI Model)](https://github.com/techmonk000/Project-Friday)
+- 💬 Check out my personal website at: [swarnavo.com](https://swarnavo.com/)
+
+- 🔭 I’m currently working on [Nebion ( GPU Hypervisor )](https://github.com/techmonk000/nebion-engine)
 
 - 🌱 I’m currently exploring **LLM Inference , Low Latency coding**
 
